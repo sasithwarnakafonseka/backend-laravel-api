@@ -19,3 +19,6 @@ yarn-error.log
 /.vscode
 composer.lock
 NOTES.md
+
+# Docker
+/mysql
